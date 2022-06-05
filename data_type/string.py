@@ -6,3 +6,6 @@ print("Message "+my_string)
 
 print(my_string+my_nextstring)
 print(my_string*4)
+
+print(my_string.upper())
+print(my_string.lower())
