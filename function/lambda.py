@@ -8,3 +8,9 @@ y = lambda a,b: a*b
 
 print(y(4,5))
 
+def myfunc(n):
+    return lambda a: a*n
+
+value = myfunc(5)
+
+print(value(5))
