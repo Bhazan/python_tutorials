@@ -2,7 +2,7 @@
 def my_function(arg1, arg2, arg3):
     print(arg1, arg2, arg3)
 
-my_function(arg3 = "Bhajan", arg1 = "Sachin", arg2 = "Mahendra") # calling function with key value order doesn't matter
+my_function(arg3 = "Bhajan", arg1 = "Sachin", arg2 = "Mahendra") # calling function with key value, order doesn't matter
 
 # default parameter value
 
