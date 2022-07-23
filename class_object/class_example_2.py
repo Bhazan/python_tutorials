@@ -9,3 +9,4 @@ class B:
 
 obj1 = B("Bhajan", "Singh")
 obj1.fullName()
+
